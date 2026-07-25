@@ -1,152 +1,223 @@
-<h1 align="center">Hi 👋, I'm Bilal Ashraf</h1>
-<h3 align="center">🚀 Senior Software Engineer | Mobile & Web Architect | React Native • Flutter • Next.js</h3>
+<h1 align="center">Hi there, I'm Bilal Ashraf 👋</h1>
+<h3 align="center">🚀 Senior Software Engineer | Mobile & Web Architect</h3>
+<h4 align="center">React Native • Flutter • Next.js • Firebase • Node.js</h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+mobile+%26+web+apps;5%2B+Years+of+Production+Experience;React+Native+%7C+Flutter+%7C+Next.js;Turning+Ideas+Into+Real+Products+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilalashraff/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bilal%20Ashraf-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bilal%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bilalashraffn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BilalAshraf70">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## 💡 About Me  
-
-I’m a *Senior Software Engineer with 5+ years of experience, specializing in building **scalable mobile and web applications* used in real-world production environments.  
-
-My expertise spans across *React Native, Flutter, and modern web technologies (Next.js)*, along with backend systems and deployment workflows.  
-
-I focus on *clean architecture, performance optimization, and user-centric design*, ensuring every product is reliable, scalable, and intuitive.
-
----
-
-## 💼 What I Do  
-
-- 📱 Develop *cross-platform mobile apps* (React Native & Flutter)  
-- 🌐 Build *modern web applications* using Next.js  
-- ⚙️ Architect *end-to-end systems* (User, Admin, Rider, Kiosk platforms)  
-- 🔗 Integrate *Firebase, REST APIs, Stripe & real-time services*  
-- 📍 Implement *maps, geolocation & live tracking systems*  
-- 🐳 Containerize applications using *Docker*  
-- 🚀 Deploy scalable apps via *Vercel & cloud platforms*  
-- 👨‍🏫 Mentor developers and deliver *industry-level training*  
-
----
-
-## 🏢 Professional Experience  
-
-*React Native Developer — Hello World Technologies*  
-📍 Jun 2023 – Present  
-- Leading development of scalable production apps  
-- Building full ecosystem solutions across multiple platforms  
-
-*React Native Instructor — IT Centre Rahim Yar Khan*  
-📍 Jun 2023 – Present  
-- Training developers in mobile app development  
-- Mentoring on real-world projects & best practices  
-
-*React Native Developer — NGS Technologies*  
-📍 Nov 2022 – Jun 2023  
-- Delivered multiple client-based production applications  
-- Strengthened expertise in mobile architecture & APIs  
-
----
-
-## 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nextjs,js,ts,firebase,nodejs,express,mysql,docker,vercel,git,github,figma" />
+  <img src="https://komarev.com/ghpvc/?username=BilalAshraf70&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/BilalAshraf70?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
 </p>
 
 ---
 
-## 🧩 Architecture & Expertise  
+### 💡 About Me
 
-- Clean Architecture & modular app design  
-- State management & scalable code structure  
-- Real-time systems (notifications, tracking, updates)  
-- API design & third-party integrations  
-- Performance optimization & app stability  
-- CI/CD concepts & deployment workflows  
+```yaml
+name: Bilal Ashraf
+role: Senior Software Engineer
+experience: 5+ years
+focus: Scalable mobile & web applications for real-world production
+specialties: [React Native, Flutter, Next.js, Firebase, REST APIs, Real-time Systems]
+philosophy: Clean architecture. Performance-first. User-centric design.
+currently: Leading full-ecosystem builds (User • Admin • Rider • Kiosk apps)
+```
 
----
-
-## 💼 Featured Projects  
-
-### ⚽ AZAM FC App  
-- Club management & fan engagement platform  
-- Live scores, player profiles, notifications  
-
-### 🩸 Blood Donor App  
-- Location-based donor-recipient system  
-- Real-time alerts & donation tracking  
-
-### 🍔 DineHome Ecosystem  
-- Complete system (Admin, Rider, User apps)  
-- Real-time order tracking, analytics & delivery flow  
-
-### 💈 EASYTOR Barber App  
-- Appointment booking & salon management  
-- Payments, scheduling, reviews  
-
-### 🎓 IT Center App  
-- Course registration & training system  
-- Secure payments & notifications  
-
-### 🚗 KFUEIT RideShare  
-- Smart ride-sharing platform  
-- Real-time tracking & ride matching  
-
-### 🍽️ Tasty Court (User + Kiosk Apps)  
-- Restaurant ordering & kiosk system  
-- Stripe integration & live tracking  
-
-### 🌦️ Weather Forecast App  
-- Real-time weather data & forecasting  
-- Multi-location tracking & alerts  
+I'm a Senior Software Engineer with 5+ years of experience building scalable mobile and web applications that ship to real users. I specialize in **React Native, Flutter, and Next.js**, backed by strong backend and DevOps fundamentals — and I care deeply about clean architecture, performance, and products that feel effortless to use.
 
 ---
 
-## ⚡ Key Strengths  
+### 💼 What I Do
 
-- ✅ Scalable system design & clean architecture  
-- 📱 Deep expertise in mobile ecosystems (RN + Flutter)  
-- 🌐 Strong understanding of modern web (Next.js)  
-- 📍 Real-time systems & geolocation-based apps  
-- 🚀 Deployment & DevOps basics (Docker, Vercel)  
-- 👨‍🏫 Leadership, mentoring & team collaboration  
+| Area | Details |
+|---|---|
+| 📱 Mobile Development | Cross-platform apps with React Native & Flutter |
+| 🌐 Web Development | Modern, performant web apps with Next.js |
+| ⚙️ System Architecture | End-to-end ecosystems (User, Admin, Rider, Kiosk platforms) |
+| 🔗 Integrations | Firebase, REST APIs, Stripe, real-time services |
+| 📍 Location Services | Maps, geolocation & live tracking systems |
+| 🐳 DevOps | Containerization with Docker, deployment via Vercel & cloud |
+| 👨‍🏫 Mentorship | Training developers & delivering industry-level courses |
 
 ---
 
-## 📊 GitHub Stats  
+### 🏢 Professional Experience
+
+**React Native Developer** · *Hello World Technologies*
+📍 Jun 2023 – Present
+- Leading development of scalable, production-grade applications
+- Architecting full ecosystem solutions spanning multiple platforms
+
+**React Native Instructor** · *IT Centre Rahim Yar Khan*
+📍 Jun 2023 – Present
+- Training the next generation of mobile developers
+- Mentoring students through real-world, production-style projects
+
+**React Native Developer** · *NGS Technologies*
+📍 Nov 2022 – Jun 2023
+- Delivered multiple client-based production applications
+- Strengthened expertise in mobile architecture & API design
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalAshraf70&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAshraf70&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nextjs,js,ts,firebase,nodejs,express,mysql,mongodb,docker,vercel,git,github,figma,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zustand-FF4154?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
-## 🎓 Education  
+### 🧩 Architecture & Expertise
 
-*BS Computer Science — KFUEIT (2019 – 2023)*  
-- Active in coding competitions, hackathons & tech events  
-- Strong foundation in algorithms & software engineering  
+- 🏗️ Clean architecture & modular app design
+- 🔄 State management & scalable code structure
+- ⚡ Real-time systems (notifications, tracking, live updates)
+- 🔌 API design & third-party integrations
+- 🚀 Performance optimization & app stability
+- 🔁 CI/CD concepts & deployment workflows
+
+---
+
+### 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**⚽ AZAM FC App**
+Club management & fan engagement platform with live scores, player profiles, and push notifications.
+
+</td>
+<td width="50%">
+
+**🩸 Blood Donor App**
+Location-based donor–recipient matching system with real-time alerts and donation tracking.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🍔 DineHome Ecosystem**
+Full multi-app system (Admin, Rider, User) with real-time order tracking, analytics & delivery flow.
+
+</td>
+<td width="50%">
+
+**💈 EASYTOR Barber App**
+Appointment booking & salon management with payments, scheduling, and reviews.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎓 IT Center App**
+Course registration & training platform with secure payments and notifications.
+
+</td>
+<td width="50%">
+
+**🚗 KFUEIT RideShare**
+Smart ride-sharing platform with real-time tracking and intelligent ride matching.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🍽️ Tasty Court (User + Kiosk)**
+Restaurant ordering & self-service kiosk system with Stripe integration and live order tracking.
+
+</td>
+<td width="50%">
+
+**🌦️ Weather Forecast App**
+Real-time weather data with multi-location tracking and severe weather alerts.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let’s Connect  
+### ⚡ Key Strengths
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/bilalashraff/  
-- 📧 Email: bilalashraffn@gmail.com  
-- 💻 GitHub: https://github.com/BilalAshraf70  
+- ✅ Scalable system design & clean architecture
+- 📱 Deep expertise across mobile ecosystems (React Native + Flutter)
+- 🌐 Strong command of modern web development (Next.js)
+- 📍 Real-time & geolocation-based systems
+- 🚀 Deployment & DevOps fundamentals (Docker, Vercel)
+- 👨‍🏫 Leadership, mentoring & cross-functional collaboration
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalAshraf70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAshraf70&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAshraf70&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAshraf70&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+### 🎓 Education
+
+**BS Computer Science** — KFUEIT (2019 – 2023)
+- Active in coding competitions, hackathons & tech events
+- Strong foundation in algorithms & software engineering
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bilalashraff/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bilalashraffn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BilalAshraf70">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💬 <i>Open to collaborations, freelance projects & full-time opportunities.</i>
+</p>
 
 <p align="center">
   ⚡ Engineering scalable products. Leading with impact. ⚡
