@@ -200,7 +200,44 @@ Real-time weather data with multi-location tracking and severe weather alerts.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BilalAshraf70/BilalAshraf70/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BilalAshraf70/BilalAshraf70/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+### 🌱 Currently
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔭 Working On**
+Scaling multi-app production ecosystems (User/Admin/Rider/Kiosk architecture patterns)
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Learning**
+Advanced state management patterns, edge functions & server-driven UI
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 2026 Goal**
+Open-sourcing reusable RN + Flutter architecture starter kits
+
+</td>
+</tr>
+</table>
+
+### 💬 Ask Me About
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React_Native_Architecture-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flutter_vs_RN-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Real--time_Systems-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Scaling_Mobile_Apps-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Mentoring_Devs-2E9EF7?style=flat-square" />
 </p>
 
 ---
@@ -231,6 +268,4 @@ Real-time weather data with multi-location tracking and severe weather alerts.
   💬 <i>Open to collaborations, freelance projects & full-time opportunities.</i>
 </p>
 
-<p align="center">
-  ⚡ Engineering scalable products. Leading with impact. ⚡
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:2E9EF7,100:0F2027&height=120&section=footer" width="100%"/>
