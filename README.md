@@ -246,15 +246,7 @@ Open-sourcing reusable RN + Flutter architecture starter kits
 
 ---
 
-### 📜 Certifications
 
-- 🏅 *Add certification name* — Issuing Organization (Year)
-- 🏅 *Add certification name* — Issuing Organization (Year)
-- 🏅 *Add certification name* — Issuing Organization (Year)
-
-> Replace these placeholder lines with your real certifications — e.g. AWS, Google, Meta React Native, Udemy/Coursera specializations, etc.
-
----
 
 ### 🎓 Education
 
