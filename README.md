@@ -3,7 +3,7 @@
 <h4 align="center">React Native • Flutter • Next.js • Firebase • Node.js</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+mobile+%26+web+apps;5%2B+Years+of+Production+Experience;React+Native+%7C+Flutter+%7C+Next.js;Turning+Ideas+Into+Real+Products+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+mobile+%26+web+apps%3B5%2B+Years+of+Production+Experience%3BReact+Native+%7C+Flutter+%7C+Next.js%3BTurning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
