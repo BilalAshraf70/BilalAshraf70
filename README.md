@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Bilal Ashraf 👋</h1>
-<h3 align="center">🚀 Senior Software Engineer | Mobile & Web Architect</h3>
-<h4 align="center">React Native • Flutter • Next.js • Firebase • Node.js</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:2C5364&height=180&section=header&text=Bilal%20Ashraf&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Architect&descAlignY=58&descSize=18" width="100%"/>
+
+<h3 align="center">🚀 React Native • Flutter • Next.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+mobile+%26+web+apps%3B5%2B+Years+of+Production+Experience%3BReact+Native+%7C+Flutter+%7C+Next.js%3BTurning+Ideas+Into+Real+Products" alt="Typing SVG" />
