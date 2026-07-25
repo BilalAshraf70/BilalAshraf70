@@ -180,7 +180,7 @@ Real-time weather data with multi-location tracking and severe weather alerts.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BilalAshraf70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAshraf70&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=BilalAshraf70&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
