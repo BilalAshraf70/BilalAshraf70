@@ -197,6 +197,8 @@ Real-time weather data with multi-location tracking and severe weather alerts.
   <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=BilalAshraf70&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
+> ℹ️ This uses a community-run mirror of the trophy service, since the official shared one is currently overloaded. If this specific mirror is ever down too, swap the domain for one of these, keeping the rest of the URL the same: `github-profile-trophy-winning.vercel.app`, `github-profile-trophy-kannan.vercel.app`, `github-profile-trophy.vercel.app` (official, but often congested).
+
 ### 🐍 Contribution Snake
 
 <p align="center">
