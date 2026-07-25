@@ -191,6 +191,63 @@ Real-time weather data with multi-location tracking and severe weather alerts.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAshraf70&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BilalAshraf70&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BilalAshraf70/BilalAshraf70/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ The snake animation isn't automatic — it needs a one-time setup (a free GitHub Action that regenerates it daily). Steps are below.
+
+---
+
+<details>
+<summary>🐍 How to enable the contribution snake (one-time, 2 minutes)</summary>
+
+1. In your `BilalAshraf70/BilalAshraf70` repo, go to **Actions → New workflow → set up a workflow yourself**.
+2. Name the file `snake.yml` and paste:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: BilalAshraf70
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it and run it once manually (**Actions → Generate Snake → Run workflow**).
+4. It creates an `output` branch with the SVGs — the image tag already in this README will pick it up automatically after that.
+
+</details>
+
 ---
 
 ### 🎓 Education
