@@ -194,7 +194,7 @@ Real-time weather data with multi-location tracking and severe weather alerts.
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalAshraf70&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=BilalAshraf70&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ### 🐍 Contribution Snake
