@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/github/followers/BilalAshraf70?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
 ---
 
 ### 💡 About Me
@@ -239,6 +243,16 @@ Open-sourcing reusable RN + Flutter architecture starter kits
   <img src="https://img.shields.io/badge/-Scaling_Mobile_Apps-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/-Mentoring_Devs-2E9EF7?style=flat-square" />
 </p>
+
+---
+
+### 📜 Certifications
+
+- 🏅 *Add certification name* — Issuing Organization (Year)
+- 🏅 *Add certification name* — Issuing Organization (Year)
+- 🏅 *Add certification name* — Issuing Organization (Year)
+
+> Replace these placeholder lines with your real certifications — e.g. AWS, Google, Meta React Native, Udemy/Coursera specializations, etc.
 
 ---
 
