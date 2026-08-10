@@ -1,16 +1,19 @@
 <h1 align="center">Hi there, I'm Bilal Ashraf 👋</h1>
-<h3 align="center">🚀 Senior Software Engineer | Mobile & Web Architect</h3>
-<h4 align="center">React Native • Flutter • Next.js • Firebase • Node.js</h4>
+<h3 align="center">🚀 Senior React Native Engineer | Health-Tech, AI & Embedded</h3>
+<h4 align="center">React Native • TypeScript • Next.js • Node.js • ESP32 / BLE</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+mobile+%26+web+apps%3B5%2B+Years+of+Production+Experience%3BReact+Native+%7C+Flutter+%7C+Next.js%3BTurning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=12+apps+live+on+the+App+Store+%26+Google+Play;Health-tech+%26+AI+%E2%80%94+HIPAA%2C+GDPR%2C+RAG;From+ESP32+firmware+to+the+React+Native+app;89.7+BPM+against+a+hand-counted+90" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilalashraff/">
     <img src="https://img.shields.io/badge/LinkedIn-Bilal%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bilalashraffn@gmail.com">
+  <a href="https://muhammad-bilal-ashraf.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:bilalashrafrn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BilalAshraf70">
@@ -33,15 +36,17 @@
 
 ```yaml
 name: Bilal Ashraf
-role: Senior Software Engineer
+role: Senior React Native Engineer
 experience: 5+ years
-focus: Scalable mobile & web applications for real-world production
-specialties: [React Native, Flutter, Next.js, Firebase, REST APIs, Real-time Systems]
-philosophy: Clean architecture. Performance-first. User-centric design.
-currently: Leading full-ecosystem builds (User • Admin • Rider • Kiosk apps)
+shipped: 12 apps live on the App Store & Google Play
+domains: [health-tech, AI/LLM, embedded/IoT, subscription SaaS]
+compliance: [HIPAA, GDPR, UK clinical registries]
+sole_developer_on: 7 shipped products — backend through to mobile
+philosophy: Fewer dependencies. Measured, not assumed. Say when it won't work.
+currently: Wearable firmware, on-device AI, and the apps around them
 ```
 
-I'm a Senior Software Engineer with 5+ years of experience building scalable mobile and web applications that ship to real users. I specialize in **React Native, Flutter, and Next.js**, backed by strong backend and DevOps fundamentals — and I care deeply about clean architecture, performance, and products that feel effortless to use.
+I build mobile products for healthcare — **12 apps live on the App Store and Google Play**, eight of them in health, several with AI at the core. I also write the **firmware for the wearables** some of them talk to, which means on a connected product I can work both sides of the wire rather than half of it.
 
 ---
 
@@ -49,47 +54,59 @@ I'm a Senior Software Engineer with 5+ years of experience building scalable mob
 
 | Area | Details |
 |---|---|
-| 📱 Mobile Development | Cross-platform apps with React Native & Flutter |
-| 🌐 Web Development | Modern, performant web apps with Next.js |
-| ⚙️ System Architecture | End-to-end ecosystems (User, Admin, Rider, Kiosk platforms) |
-| 🔗 Integrations | Firebase, REST APIs, Stripe, real-time services |
-| 📍 Location Services | Maps, geolocation & live tracking systems |
-| 🐳 DevOps | Containerization with Docker, deployment via Vercel & cloud |
-| 👨‍🏫 Mentorship | Training developers & delivering industry-level courses |
+| 📱 Mobile Development | React Native & Expo — iOS and Android, real-time GPS, payments, offline handling, store releases |
+| 🧠 AI Integration | LLM integration, retrieval-augmented generation (RAG), on-device & privacy-preserving architectures |
+| 🏥 Health-Tech | HIPAA & GDPR architecture, PHI handling, Postgres row-level security, clinical registry integration |
+| 🔌 Embedded & IoT | ESP32 and nRF52 firmware in C, BLE, sensor integration, biomedical signal processing |
+| 🌐 Full-Stack | Next.js, Node, Express, TypeScript, Supabase/Postgres, Firebase, Stripe |
+| 📍 Location Services | Maps, geolocation, live tracking & route optimisation |
+| 👨‍🏫 Mentorship | Teaching production React Native — architecture, state management, performance |
 
 ---
 
 ### 🏢 Professional Experience
 
-**React Native Developer** · *Hello World Technologies*
-📍 Jun 2023 – Present
-- Leading development of scalable, production-grade applications
-- Architecting full ecosystem solutions spanning multiple platforms
+**React Native Engineer** · *Hello World Technologies*
+📍 Jun 2022 – Present
+- Architected an HRV biofeedback platform end to end — wearable firmware through to admin dashboard
+- Built the AI layer of a conversational health assistant and the UK regulatory integrations for a clinical staffing platform
+- Sole developer on seven shipped products, backend through to mobile
 
-**React Native Instructor** · *IT Centre Rahim Yar Khan*
+**React Native Instructor** · *IT Centre Rahim Yar Khan* · Part-time
 📍 Jun 2023 – Present
-- Training the next generation of mobile developers
-- Mentoring students through real-world, production-style projects
+- Teaching production React Native — architecture, state management, performance, platform differences
+- Mentoring students through complete builds, from environment setup to store submission
 
 **React Native Developer** · *NGS Technologies*
-📍 Nov 2022 – Jun 2023
-- Delivered multiple client-based production applications
-- Strengthened expertise in mobile architecture & API design
+📍 Jun 2021 – May 2022
+- Delivered client production applications across multiple platforms
+- REST API integration and mobile architecture
+
+**React Native Intern** · *NGS Technologies*
+📍 Feb 2021 – May 2021
+- First professional React Native work, alongside BS Computer Science studies
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nextjs,js,ts,firebase,nodejs,express,mysql,mongodb,docker,vercel,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,firebase,supabase,postgres,redis,c,arduino,docker,vercel,git,github,figma,postman" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nRF52-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zustand-FF4154?style=flat-square" />
+  <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -97,12 +114,13 @@ I'm a Senior Software Engineer with 5+ years of experience building scalable mob
 
 ### 🧩 Architecture & Expertise
 
-- 🏗️ Clean architecture & modular app design
-- 🔄 State management & scalable code structure
-- ⚡ Real-time systems (notifications, tracking, live updates)
-- 🔌 API design & third-party integrations
-- 🚀 Performance optimization & app stability
-- 🔁 CI/CD concepts & deployment workflows
+- 🏗️ Multi-role platforms — several interfaces held consistent against one live data model
+- 🔒 Compliance by architecture — row-level security, PHI kept out of telemetry, on-device storage
+- 📡 Biomedical signal processing — filtering, adaptive noise cancellation, FFT, Kalman tracking
+- ⚡ Real-time systems — live tracking, notifications, multiplayer state sync
+- 🧠 Production AI — retrieval over curated content, cost and latency tuning, evaluation before release
+- 🚀 Release engineering — App Store and Play Console, signing, staged rollouts, OTA updates
+- 🔁 Fewer dependencies — I removed most of the libraries from one app and it got faster and easier to debug
 
 ---
 
@@ -112,56 +130,57 @@ I'm a Senior Software Engineer with 5+ years of experience building scalable mob
 <tr>
 <td width="50%">
 
-**⚽ AZAM FC App**
-Club management & fan engagement platform with live scores, player profiles, and push notifications.
+**💓 HRV Biofeedback Platform** · *client under NDA*
+Wearable stress-monitoring product, built end to end across all five components. ESP32-C3 firmware with a full PPG signal chain, RMSSD stress scoring, Electron kiosk runtime, React Native app, Next.js admin, Node/Express backend.
+**Validated at 89.7 BPM vs a hand-counted 90.**
 
 </td>
 <td width="50%">
 
-**🩸 Blood Donor App**
-Location-based donor–recipient matching system with real-time alerts and donation tracking.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🍔 DineHome Ecosystem**
-Full multi-app system (Admin, Rider, User) with real-time order tracking, analytics & delivery flow.
-
-</td>
-<td width="50%">
-
-**💈 EASYTOR Barber App**
-Appointment booking & salon management with payments, scheduling, and reviews.
+**🩺 [Clyvera](https://www.clyvera.ai/)** · AI Health Assistant
+Built the AI layer — retrieval over a 1,600-topic medical knowledge base, LLM integration, and an on-device data architecture meeting HIPAA and GDPR.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🎓 IT Center App**
-Course registration & training platform with secure payments and notifications.
+**🏥 [LocumForce](https://www.locumforce.co.uk/)** · UK Healthcare Staffing
+Clinician verification directly against the GMC, GPhC and NMC registries and the Home Office right-to-work API, with a digital DBS audit trail and GPS-locked timesheets.
 
 </td>
 <td width="50%">
 
-**🚗 KFUEIT RideShare**
-Smart ride-sharing platform with real-time tracking and intelligent ride matching.
+**🍔 [DineHome](https://dinehome.no/)** · Norwegian Food Delivery
+Three connected apps — customer, rider, restaurant admin — against one real-time backend, live across six Norwegian cities. GPS tracking, route optimisation, Vipps payments.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🍽️ Tasty Court (User + Kiosk)**
-Restaurant ordering & self-service kiosk system with Stripe integration and live order tracking.
+**🩸 GlycoSphere** · Diabetes Management
+HIPAA-compliant patient portal on Expo SDK 54 and Supabase, with Postgres row-level security, PHI excluded from logs and analytics, and 2FA.
 
 </td>
 <td width="50%">
 
-**🌦️ Weather Forecast App**
-Real-time weather data with multi-location tracking and severe weather alerts.
+**⚔️ [SKORM](https://playskorm.com/)** · Tactical Strategy Game
+Sole developer across iOS, Android and web from one shared logic core — hex-grid pathfinding, line-of-sight, turn state machine, AI opponent, real-time multiplayer.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛏️ Hospital Bed Angle Monitor** · nRF52840
+IMU fused with a Madgwick AHRS filter at 25 Hz, streamed over both USB and BLE into a browser client on the Web Serial and Web Bluetooth APIs.
+
+</td>
+<td width="50%">
+
+**💳 Solo-Built SaaS** · 3 platforms
+BrightSmile (multi-tenant dental), ApexGym (trainer coaching), ShineCrew (car wash ops) — backend, database, web app, marketing site and mobile client for each.
 
 </td>
 </tr>
@@ -169,18 +188,26 @@ Real-time weather data with multi-location tracking and severe weather alerts.
 
 ---
 
-### ⚡ Key Strengths
+### ✍️ Writing
 
-- ✅ Scalable system design & clean architecture
-- 📱 Deep expertise across mobile ecosystems (React Native + Flutter)
-- 🌐 Strong command of modern web development (Next.js)
-- 📍 Real-time & geolocation-based systems
-- 🚀 Deployment & DevOps fundamentals (Docker, Vercel)
-- 👨‍🏫 Leadership, mentoring & cross-functional collaboration
+Measured, first-hand accounts — not tutorials.
+
+- 💓 **[Reading heart rate from the wrist with a MAX30102](https://muhammad-bilal-ashraf.vercel.app/blog/wrist-ppg-max30102-heart-rate)** — the full signal chain, validated against a hand-counted pulse, and the motion case it cannot solve
+- 📡 **[BLE connects and sends bytes, but the data never parses](https://muhammad-bilal-ashraf.vercel.app/blog/ble-att-mtu-truncation)** — diagnosing the 23-byte ATT MTU truncation
+- 🔒 **[HIPAA in a React Native app](https://muhammad-bilal-ashraf.vercel.app/blog/hipaa-react-native-supabase-rls)** — on-device storage and Postgres row-level security
 
 ---
 
+### ⚡ Key Strengths
 
+- ✅ End-to-end ownership — sole developer on seven shipped products
+- 🔌 Sensor to app — firmware, signal processing, and the mobile client, from one person
+- 🏥 Regulated domains — HIPAA, GDPR, and integration with real clinical systems
+- 📱 12 apps through App Store and Play Store review
+- 🌍 Delivered for clients in the UK, Norway, Tanzania, Israel and the US
+- 👨‍🏫 Teaching React Native professionally — which forces you to explain, not just build
+
+---
 
 ### 📅 Contribution Calendar
 
@@ -203,19 +230,19 @@ Real-time weather data with multi-location tracking and severe weather alerts.
 <td width="33%" valign="top">
 
 **🔭 Working On**
-Scaling multi-app production ecosystems (User/Admin/Rider/Kiosk architecture patterns)
+Wearable health products — PPG and IMU firmware, on-device AI, and the React Native apps around them
 
 </td>
 <td width="33%" valign="top">
 
 **📚 Learning**
-Advanced state management patterns, edge functions & server-driven UI
+Motion-artifact cancellation with accelerometer fusion (TROIKA/JOSS-class), and on-device inference
 
 </td>
 <td width="33%" valign="top">
 
 **🎯 2026 Goal**
-Open-sourcing reusable RN + Flutter architecture starter kits
+Open-sourcing the bed-angle monitor and a reusable BLE-to-React-Native starter
 
 </td>
 </tr>
@@ -224,20 +251,19 @@ Open-sourcing reusable RN + Flutter architecture starter kits
 ### 💬 Ask Me About
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-PPG_Signal_Processing-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-BLE_Debugging-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-HIPAA_in_Mobile_Apps-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-RAG_on_Device-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/-React_Native_Architecture-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Flutter_vs_RN-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Real--time_Systems-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Scaling_Mobile_Apps-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/-Mentoring_Devs-2E9EF7?style=flat-square" />
 </p>
 
 ---
 
-
-
 ### 🎓 Education
 
-**BS Computer Science** — KFUEIT (2019 – 2023)
+**BS Computer Science** — KFUEIT (2019 – 2023) · GPA 3.42/4.0
 - Active in coding competitions, hackathons & tech events
 - Strong foundation in algorithms & software engineering
 
@@ -249,18 +275,18 @@ Open-sourcing reusable RN + Flutter architecture starter kits
   <a href="https://www.linkedin.com/in/bilalashraff/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bilalashraffn@gmail.com">
+  <a href="https://muhammad-bilal-ashraf.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:bilalashrafrn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/BilalAshraf70">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-  💬 <i>Open to collaborations, freelance projects & full-time opportunities.</i>
+  💬 <i>Open to remote and UAE-based roles in health-tech, AI and mobile — plus freelance projects.</i>
 </p>
 
 <p align="center">
-  ⚡ Engineering scalable products. Leading with impact. ⚡
+  ⚡ From the sensor to the app. ⚡
 </p>
