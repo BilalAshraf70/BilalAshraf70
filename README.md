@@ -35,15 +35,17 @@
 ### 💡 About Me
 
 ```yaml
-name: Bilal Ashraf
-role: Senior React Native Engineer
-experience: 5+ years
-shipped: 12 apps live on the App Store & Google Play
-domains: [health-tech, AI/LLM, embedded/IoT, subscription SaaS]
-compliance: [HIPAA, GDPR, UK clinical registries]
-sole_developer_on: 7 shipped products — backend through to mobile
-philosophy: Fewer dependencies. Measured, not assumed. Say when it won't work.
-currently: Wearable firmware, on-device AI, and the apps around them
+Name: Bilal Ashraf
+Role: Senior React Native Engineer
+Experience: 5+ years
+Location: Rahim Yar Khan, Pakistan
+Apps Shipped: 12                # App Store + Google Play
+Built Solo: 7                   # backend through to mobile
+Domains: [Health-Tech, AI/LLM, Embedded/IoT, SaaS]
+Compliance: [HIPAA, GDPR, UK Clinical Registries]
+Stack: [React Native, TypeScript, Next.js, Node, ESP32/C]
+Currently: Wearable firmware + on-device AI
+Open To: [Remote, UAE, Freelance]
 ```
 
 I build mobile products for healthcare — **12 apps live on the App Store and Google Play**, eight of them in health, several with AI at the core. I also write the **firmware for the wearables** some of them talk to, which means on a connected product I can work both sides of the wire rather than half of it.
